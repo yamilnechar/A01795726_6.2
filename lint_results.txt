@@ -1,30 +1,11 @@
-reservation_system.py:3:1: E302 expected 2 blank lines, found 1
-reservation_system.py:13:80: E501 line too long (81 > 79 characters)
-reservation_system.py:23:80: E501 line too long (92 > 79 characters)
-reservation_system.py:44:1: E302 expected 2 blank lines, found 1
-reservation_system.py:52:80: E501 line too long (87 > 79 characters)
-reservation_system.py:60:80: E501 line too long (82 > 79 characters)
-reservation_system.py:67:1: E302 expected 2 blank lines, found 1
-reservation_system.py:75:80: E501 line too long (93 > 79 characters)
-reservation_system.py:83:80: E501 line too long (88 > 79 characters)
-reservation_system.py:85:80: E501 line too long (89 > 79 characters)
-************* Module reservation_system
-reservation_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
-reservation_system.py:3:0: C0115: Missing class docstring (missing-class-docstring)
-reservation_system.py:11:4: C0116: Missing function or method docstring (missing-function-docstring)
-reservation_system.py:15:15: W0718: Catching too general exception Exception (broad-exception-caught)
-reservation_system.py:19:4: C0116: Missing function or method docstring (missing-function-docstring)
-reservation_system.py:30:4: C0116: Missing function or method docstring (missing-function-docstring)
-reservation_system.py:37:4: C0116: Missing function or method docstring (missing-function-docstring)
-reservation_system.py:44:0: C0115: Missing class docstring (missing-class-docstring)
-reservation_system.py:50:4: C0116: Missing function or method docstring (missing-function-docstring)
-reservation_system.py:54:15: W0718: Catching too general exception Exception (broad-exception-caught)
-reservation_system.py:58:4: C0116: Missing function or method docstring (missing-function-docstring)
-reservation_system.py:67:0: C0115: Missing class docstring (missing-class-docstring)
-reservation_system.py:73:4: C0116: Missing function or method docstring (missing-function-docstring)
-reservation_system.py:77:15: W0718: Catching too general exception Exception (broad-exception-caught)
-reservation_system.py:81:4: C0116: Missing function or method docstring (missing-function-docstring)
+reservation_system.py:22:80: E501 line too long (81 > 79 characters)
+reservation_system.py:33:80: E501 line too long (92 > 79 characters)
+reservation_system.py:68:80: E501 line too long (87 > 79 characters)
+reservation_system.py:77:80: E501 line too long (82 > 79 characters)
+reservation_system.py:96:80: E501 line too long (93 > 79 characters)
+reservation_system.py:105:80: E501 line too long (88 > 79 characters)
+reservation_system.py:107:80: E501 line too long (89 > 79 characters)
 
-------------------------------------------------------------------
-Your code has been rated at 7.97/10 (previous run: 7.97/10, +0.00)
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.97/10, +2.03)
 
