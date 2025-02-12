@@ -1,0 +1,8 @@
+test_cancel_reservation (__main__.TestHotel.test_cancel_reservation) ... ok
+test_create_hotel (__main__.TestHotel.test_create_hotel) ... ok
+test_reserve_room (__main__.TestHotel.test_reserve_room) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
