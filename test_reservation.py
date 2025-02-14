@@ -1,8 +1,9 @@
 import unittest
-from reservation_system import Hotel  
+from reservation_system import Hotel
+
 
 class TestHotel(unittest.TestCase):
-    """Tests for the Hotel class."""  
+    """Tests for the Hotel class."""
 
     def test_create_hotel(self):
         hotel = Hotel(1, "Hotel Test", "City X", 10)

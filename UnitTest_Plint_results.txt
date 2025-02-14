@@ -1,6 +1,3 @@
-test_reservation.py:2:37: W291 trailing whitespace
-test_reservation.py:4:1: E302 expected 2 blank lines, found 1
-test_reservation.py:5:37: W291 trailing whitespace
 
 --------------------------------------------------------------------
 Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
