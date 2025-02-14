@@ -1,7 +1,6 @@
-test_reservation.py:2:1: F401 'reservation_system.Customer' imported but unused
-test_reservation.py:2:1: F401 'reservation_system.Reservation' imported but unused
+test_reservation.py:2:37: W291 trailing whitespace
 test_reservation.py:4:1: E302 expected 2 blank lines, found 1
-test_reservation.py:20:1: E305 expected 2 blank lines after class or function definition, found 1
+test_reservation.py:5:37: W291 trailing whitespace
 
 --------------------------------------------------------------------
 Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)

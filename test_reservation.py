@@ -1,7 +1,9 @@
 import unittest
-from reservation_system import Hotel, Customer, Reservation
+from reservation_system import Hotel  
 
 class TestHotel(unittest.TestCase):
+    """Tests for the Hotel class."""  
+
     def test_create_hotel(self):
         hotel = Hotel(1, "Hotel Test", "City X", 10)
         self.assertEqual(hotel.name, "Hotel Test")
@@ -16,6 +18,7 @@ class TestHotel(unittest.TestCase):
         hotel.reserve_room(101)
         result = hotel.cancel_reservation(101)
         self.assertTrue(result)
+
 
 if __name__ == "__main__":
     with open("test_results.txt", "w") as f:
